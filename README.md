@@ -1,16 +1,8 @@
-# 👩🏻‍💻 Enivaldo Junior
+# 👨🏾‍🏫 Enivaldo Junior
 
 **`Desenvolvedor FullStack`**
 
 Me chamo Enivaldo Junior, tenho 32 anos e Cearense da terra Alencarina, Fortaleza. Sou estudande de Análise e Desenvolvimento de Sistemas na Estácio e para melhorar estou cursando Full Stack. Sou um novo apaixonado por tecnologia, estou trabalhando com suporte ao cliente N3.
- 
-    <a href="https://github.com/devjuniordepaula>
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/devjuniordepaula?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
 
 ---
 
