@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Enivaldo Junior
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedor FullStack`**
 
 Me chamo Enivaldo Junior, tenho 32 anos e Cearense da terra Alencarina, Fortaleza. Sou estudande de Análise e Desenvolvimento de Sistemas na Estácio e para melhorar estou cursando Full Stack. Sou um novo apaixonado por tecnologia, estou trabalhando com suporte ao cliente N3.
  
